@@ -77,5 +77,4 @@ done </tmp/kconfigs.txt
     echo "def_bools found $line: $total_def_bool"
     echo "def_tristates found $line: $total_def_tri"
     echo "defaults found $line: $total_default"
-    echo ""
    
